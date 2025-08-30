@@ -1,9 +1,11 @@
 # Jack McCormick's First CS193 Homework
 
-# Bullet List Of The Amazing Things About CS193
+## Bullet List Of The Amazing Things About CS193
 - Real world usefulness
 - Friendly, student TAs
 - Light workdload but high impact
+
+
 
 ## Welcome to GitHub Pages
 
