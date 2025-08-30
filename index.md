@@ -1,4 +1,4 @@
-#### Jack McCormick's First CS193 Homework
+# Jack McCormick's First CS193 Homework
 
 # Bullet List Of The Amazing Things About CS193
 - Real world usefulness
