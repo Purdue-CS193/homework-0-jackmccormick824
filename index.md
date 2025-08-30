@@ -1,3 +1,10 @@
+#### Jack McCormick's First CS193 Homework
+
+# Bullet List Of The Amazing Things About CS193
+- Real world usefulness
+- Friendly, student TAs
+- Light workdload but high impact
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
